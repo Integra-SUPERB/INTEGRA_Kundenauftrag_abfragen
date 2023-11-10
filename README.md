@@ -15,7 +15,7 @@ Learn more:
 
 The "API References" section in the official SAP documentation offers insights into the functionalities of the Sales Order Search/Display API. This API allows queries by Order ID, date range, or statuses like "Pending" and "Shipped." It also offers real-time status notifications and error handling.
 
-[https://api.sap.com/api/salesorder/resource/Sales_Order](https://api.sap.com/api/salesorder/resource/Sales_Order)
+[API References - Sales Order A2X](https://api.sap.com/api/OP_API_SALES_ORDER_SRV_0001/resource/Sales_Order_Header)
 
 ## Contact information
 
