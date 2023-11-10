@@ -8,8 +8,7 @@ Link to INTEGRA master repository
 
 Through the use of a web service, this repository, "Sales Order Search/Display," facilitates the querying of an existing customer order. The web service provides detailed information about the customer order, including its current status, enabling efficient management and insight into the order's progression.
 
-Learn more:
-[https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/7b24a64d9d0941bda1afa753263d9e39/351db853dcfcb44ce10000000a174cb4.html](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/7b24a64d9d0941bda1afa753263d9e39/351db853dcfcb44ce10000000a174cb4.html)
+[Learn more](https://help.sap.com/docs/SAP_S4HANA_ON-PREMISE/7b24a64d9d0941bda1afa753263d9e39/351db853dcfcb44ce10000000a174cb4.html)
 
 ## How does this API work?
 
